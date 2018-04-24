@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 58F6-686D
+
+ Directory of c:\Users\rf\Git\MyFolder
+
+24.04.2018  15:49    <DIR>          .
+24.04.2018  15:49    <DIR>          ..
+24.04.2018  15:49                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  144ÿ773ÿ828ÿ608 bytes free
