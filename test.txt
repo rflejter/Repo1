@@ -1,2 +1,3 @@
 change 1
-chang2 
+chang2
+changed in branch1  
